@@ -21,6 +21,7 @@ public class ImmutableExample3 {
     public static void main(String[] args){
      // map2.put(1,2);
         System.out.println(map2.get(1));
+        set.add(4);
     }
 
 
