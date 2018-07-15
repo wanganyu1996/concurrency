@@ -7,7 +7,7 @@ import java.lang.annotation.Target;
 
 /**
  * 标记不推荐的类写法
- * 
+ *
  * Created by wanganyu on 2018/04/17.
  */
 @Target(ElementType.TYPE)
